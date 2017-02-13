@@ -3,7 +3,9 @@
   "description": "WordPress Theme Customizer Custom Controls.",
   "type": "wordpress-plugin",
   "keywords": [
+    "library",
     "wordpress",
+    "toolkit",
     "plugin"
   ],
   "homepage": "https://github.com/s3rgiosan/wpcustomizer-custom-controls",
@@ -28,6 +30,9 @@
     "psr-4": {
       "s3rgiosan\\Tests\\Customizer\\": "tests/"
     }
+  },
+  "require": {
+    "composer/installers": "~1.0"
   },
   "require-dev": {
     "dangoodman/composer-for-wordpress": "^1.0"
