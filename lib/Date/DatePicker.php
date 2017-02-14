@@ -25,7 +25,7 @@ if ( ! class_exists( '\WP_Customize_Control' ) ) {
 class DatePicker extends \WP_Customize_Control {
 
 	/**
-	 * Enqueue styles and scripts.
+	 * Enqueue scripts/styles for the date picker.
 	 *
 	 * @since 1.0.0
 	 */
@@ -34,7 +34,7 @@ class DatePicker extends \WP_Customize_Control {
 	}
 
 	/**
-	 * Render the content on the theme customizer page
+	 * Renders the control's content.
 	 *
 	 * @since 1.0.0
 	 */
