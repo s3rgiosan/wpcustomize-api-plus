@@ -6,7 +6,7 @@
  * @since 1.0.0
  */
 
-namespace s3rgiosan\Customizer\Date;
+namespace s3rgiosan\WP\Plugin\Customizer\Date;
 
 if ( ! class_exists( '\WP_Customize_Control' ) ) {
 	return null;

@@ -23,12 +23,12 @@
   },
   "autoload": {
     "psr-4": {
-      "s3rgiosan\\Customizer\\": "lib/"
+      "s3rgiosan\\WP\\Plugin\\Customizer\\": "lib/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "s3rgiosan\\Tests\\Customizer\\": "tests/"
+      "s3rgiosan\\WP\\Plugin\\Tests\\Customizer\\": "tests/"
     }
   },
   "require": {
