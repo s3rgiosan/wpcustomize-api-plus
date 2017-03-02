@@ -2,12 +2,7 @@
   "name": "s3rgiosan/wpcustomize-api-plus",
   "description": "WordPress Theme Customize Custom Controls.",
   "type": "wordpress-plugin",
-  "keywords": [
-    "library",
-    "wordpress",
-    "toolkit",
-    "plugin"
-  ],
+  "keywords": ["wordpress", "customize", "library", "plugin"],
   "homepage": "https://github.com/s3rgiosan/wpcustomize-api-plus",
   "license": "GPL-2.0+",
   "authors": [
