@@ -1,0 +1,4 @@
+/* Theme customizer has a crazy z-index of 500000! */
+.wp-customizer div.ui-datepicker {
+  z-index: 500001 !important;
+}

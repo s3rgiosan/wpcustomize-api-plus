@@ -1,14 +1,14 @@
 {
-  "name": "wpcustomizer-custom-controls",
+  "name": "wpcustomize-api-plus",
   "version": "1.0.0",
-  "description": "WordPress Theme Customizer Custom Controls.",
+  "description": "WordPress Theme Customize Custom Controls.",
   "license": "GPL-2.0+",
-  "repository": "https://github.com/s3rgiosan/wpcustomizer-custom-controls.git",
+  "repository": "https://github.com/s3rgiosan/wpcustomize-api-plus.git",
   "author": [
     {
       "name": "Sérgio Santos",
       "email": "me@s3rgiosan.com",
-      "homepage": "https://github.com/s3rgiosan"
+      "homepage": "http://s3rgiosan.com"
     }
   ],
   "devDependencies": {

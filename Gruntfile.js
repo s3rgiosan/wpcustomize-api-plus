@@ -4,11 +4,11 @@ module.exports = function (grunt) {
 
   var config = {
     author:      'Sérgio Santos <me@s3rgiosan.com>',
-    support:     'https://github.com/s3rgiosan/wpcustomizer-custom-controls/issues',
-    pluginSlug:  'wpcustomizer-custom-controls',
-    mainFile:    'wpcustomizer-custom-controls',
-    textDomain:  'wpcustomizer-custom-controls',
-    potFilename: 'wpcustomizer-custom-controls',
+    support:     'https://github.com/s3rgiosan/wpcustomize-api-plus/issues',
+    pluginSlug:  'wpcustomize-api-plus',
+    mainFile:    'wpcustomize-api-plus',
+    textDomain:  'wpcustomize-api-plus',
+    potFilename: 'wpcustomize-api-plus',
     badges:      {
       packagist_stable:    '',
       packagist_downloads: '',
